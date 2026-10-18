@@ -1,9 +1,5 @@
 # Srinath V — Business Intelligence & Analytics Portfolio
 
-A responsive portfolio website designed for recruiter scanning and built from the resume and three analytics project repositories.
-
-Official guide: https://docs.github.com/en/pages/quickstart
-
 ## Resume
 https://drive.google.com/file/d/1XsQQmRhkx45IGEmhFyhxOVwuxCnx1ttG/view?usp=sharing
 
